@@ -1,5 +1,5 @@
 # ML-Test-Harness
-This Juptyer Notebook steps through several different methods for creating several machine learning models.
+This Juptyer Notebook steps through several different classifiers for creating several machine learning models.
 
 * Logistic Regression
 * Linear Discrimnant Analysis
